@@ -10,7 +10,11 @@
 
 <!--- snake (cambia tu_usuario_de_github por el tuyo en la URL si tienes configurado el snake, si no, puedes dejarlo como decoración) -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FornariNahir/FornariNahir/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FornariNahir/FornariNahir/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FornariNahir/FornariNahir/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!--h2 without bottom border-->
