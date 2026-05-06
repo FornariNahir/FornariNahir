@@ -1,14 +1,11 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Fornari Nahir</h1></summary>
   </ul>
 </div>
 
-<!--- snake (cambia tu_usuario_de_github por el tuyo en la URL si tienes configurado el snake, si no, puedes dejarlo como decoración) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FornariNahir/FornariNahir/output/github-contribution-grid-snake-dark.svg">
@@ -17,10 +14,9 @@
   </picture>
 </div>
 
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La arquitectura sólida es la base del buen código</h2></summary>
+    <summary><h2 style="display: inline-block">"Sic Parvis Magna" 💍</h2></summary>
   </ul>
 </div>
 
@@ -33,32 +29,43 @@
 - 🌱 Actualmente desarrollando **Cronos Notes**, una plataforma de productividad gamificada.
 - 👨‍💻 Me especializo en Desarrollo Full-Stack, Administración de Servidores y Arquitectura de Sistemas.
 - 🖥️ Me divierto armando clústeres en **Proxmox**, gestionando almacenamiento NFS y configurando entornos LAMP en Ubuntu.
-- ⚡ **Datos curiosos:** Fuera del código, sigo a fondo el Turismo Carretera, aliento a River Plate en el Monumental y soy entusiasta de Kasane Teto".
+- ⚡ **Datos curiosos:** Fuera del código, sigo a fondo el Turismo Carretera, aliento a River Plate en el Monumental y soy entusiasta de Kasane Teto.
 
 <br>
 
 ## 🛠️ Mis Skills
 -------------------
-### Lenguajes y Frameworks:
+### Lenguajes:
 &emsp;
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)
-![Python](https://img.shields.io/badge/-Python-000?logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
+![PHP](https://img.shields.io/badge/-PHP-000?logo=php)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![Java](https://img.shields.io/badge/-Java-000?logo=java)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql)
+
+### Frameworks y Librerías:
+&emsp;
+![Laravel](https://img.shields.io/badge/-Laravel-000?logo=laravel&logoColor=FF2D20)
+![Django](https://img.shields.io/badge/-Django-000?logo=django&logoColor=092E20)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=vuedotjs&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap&logoColor=7952B3)
 
 ### Infraestructura y SysAdmin:
 &emsp;
-![Proxmox](https://img.shields.io/badge/-Proxmox-000?logo=Proxmox&logoColor=E57000)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu Server-000?logo=Ubuntu)
-![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)
-![Apache](https://img.shields.io/badge/-Apache-000?logo=Apache)
+![Proxmox](https://img.shields.io/badge/-Proxmox-000?logo=proxmox&logoColor=E57000)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=ubuntu&logoColor=E95420)
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
+![Apache](https://img.shields.io/badge/-Apache-000?logo=apache)
 
 ### Herramientas y Control de Versiones:
 &emsp;
-![Git](https://img.shields.io/badge/-Git-000?logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-000?logo=VirtualBox)
-![VMware](https://img.shields.io/badge/-VMware-000?logo=VMware)
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-000?logo=virtualbox)
+![VMware](https://img.shields.io/badge/-VMware-000?logo=vmware)
+
+### Inteligencia Artificial:
+&emsp;
+![IAs & LLMs](https://img.shields.io/badge/-IAs_&_LLMs-000?logo=openai)
 
 <br>
 
@@ -86,7 +93,7 @@
 
 <p align="center">Total de visitantes hasta ahora 👇❤️</p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/[tu_usuario_de_github]/count.svg">
+  <img src="https://profile-counter.glitch.me/FornariNahir/count.svg">
 </p>
 
 -------
